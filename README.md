@@ -21,7 +21,7 @@ I am an outcome-driven IT professional specializing in data infrastructure, busi
 * Kaggle: Advanced SQL
 
 ### 🌐 Let's Connect
-* Portfolio: [View my projects and visual reports on Adobe Express](#) *(Note: Insert your actual Adobe Express link here)*
+* Portfolio: [View my projects and visual reports on Adobe Express](#) *(https://new.express.adobe.com/webpage/vlFHMacYOAoiq)*
 * Location: Raipur, C.G., India
 
 ---
